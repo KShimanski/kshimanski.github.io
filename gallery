@@ -1,0 +1,475 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+    <meta name="description" content="Welcome to my gallery, feel free to browse through my illustrations and other works."/>
+    <title>Gallery — Konstantin</title>
+    <link href="https://fonts.googleapis.com/css?family=Alegreya:700%7CSource+Sans+Pro:400,600" rel="stylesheet">
+    <link rel="canonical" href="https://shimanski.co/gallery"/>
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" href="css/standardize.css">
+    <link rel="stylesheet" href="css/gallery-grid.css">
+    <link rel="stylesheet" href="css/gallery.css">
+    <script>
+        (function(i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function() {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-97454480-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+</head>
+<body class="body page-konstantin-shimanski-gallery clearfix">
+    <div id="MagicMenu" class="navigation">
+        <a href="index" class="nav-home">Konstantin</a>
+        <div class="navigation-right">
+            <a href="about" id="about" class="nav-about">About</a>
+            <a href="contact" id="contact" class="nav-contact">Contact</a>
+            <a href="gallery" id="gallery" class="nav-gallery">Gallery</a>
+        </div>
+    </div>
+    <div id="grid" data-columns>
+        <div class="item">
+            <a href="https://www.instagram.com/shimanski.co/" target="_blank">
+          <img class="lazy" data-original="img/human_trafficking.png"
+            data-original-set="img/human_trafficking.png 1x, img/human_trafficking@2x.png 2x"
+            width="1156" height="800"
+            alt="A bunch of jackals trying to bite a man, illustration for a column about human trafficking">
+            </a>
+        </div>
+        <div class="item">
+          <a href="https://www.instagram.com/shimanski.co/" target="_blank">
+          <img class="lazy" data-original="img/editorial_food_illustration.png"
+            data-original-set="img/editorial_food_illustration.png 1x, img/editorial_food_illustration@2x.png 2x"
+            width="1156" height="800"
+            alt="A bunch of different food with smily faces">
+            </a>
+        </div>
+        <div class="item">
+          <a href="https://www.instagram.com/shimanski.co/" target="_blank">
+          <img class="lazy" data-original="img/mushrooms.png"
+            data-original-set="img/mushrooms.png 1x, img/mushrooms@2x.png 2x"
+            width="1156" height="800"
+            alt="A bunch of smily mushrooms in watercolor">
+            </a>
+        </div>
+        <div class="item">
+            <a href="https://www.instagram.com/shimanski.co/" target="_blank">
+            <img class="lazy" data-original="img/wind_day.png"
+            data-original-set="img/wind_day.png 1x, img/wind_day@2x.png 2x"
+            width="1388" height="800"
+            alt="An editorial illustration for a column about wind day">
+            </a>
+        </div>
+        <div class="item">
+            <a href="https://www.instagram.com/shimanski.co/" target="_blank">
+            <img class="lazy" data-original="img/ecology_day.png"
+            data-original-set="img/ecology_day.png 1x, img/ecology_day@2x.png 2x"
+            width="1107" height="800"
+            alt="An editorial illustration for a column about ecology day">
+            </a>
+        </div>
+        <div class="item">
+            <a href="https://www.instagram.com/p/CA5KkfpB6tv/" target="_blank">
+            <img class="lazy" data-original="img/smokers_jackals.png"
+            data-original-set="img/smokers_jackals.png 1x, img/smokers_jackals@2x.png 2x"
+            width="1107" height="800"
+            alt="Two jackals with hands sitting and smoking in a bar">
+            </a>
+        </div>
+        <div class="item">
+          <a href="https://www.behance.net/gallery/94985617/hoteli-kak-luchshe-Podcast-Cover-Illustration" target="_blank">
+          <img class="lazy" data-original="img/wannabest_podcast.png"
+            data-original-set="img/wannabest_podcast.png 1x, img/wannabest_podcast@2x.png 2x"
+            width="800" height="484"
+            alt="A bird view of an evening city with people walking, taking photos, chatting">
+            </a>
+        </div>
+    	  <div class="item">
+          <a href="https://www.instagram.com/p/B5z0nfSBcik/" target="_blank">
+          <img class="lazy" data-original="img/flat_characters.png"
+            data-original-set="img/flat_characters.png 1x, img/flat_characters@2x.png 2x"
+            width="800" height="600"
+            alt="A bunch of fun flat characters">
+              </a>
+        </div>
+        <div class="item">
+            <a href="https://www.instagram.com/shimanski.co/" target="_blank">
+            <img class="lazy" data-original="img/waste_staircase.png"
+            data-original-set="img/waste_staircase.png 1x, img/waste_staircase@2x.png 2x"
+            width="800" height="600"
+            alt="Waste staircase">
+            </a>
+        </div>
+    	  <div class="item">
+          <a href="https://www.instagram.com/p/B3R12fthekv/" target="_blank">
+          <img class="lazy" data-original="img/relocation.png"
+            data-original-set="img/relocation.png 1x, img/relocation@2x.png 2x"
+            width="540" height="772"
+            alt="A guy with a cat heading somewhere and friendly, smiling objects aroud them">
+              </a>
+        </div>
+        <div class="item">
+          <a href="https://www.instagram.com/p/BxkkgF-JIVe/" target="_blank">
+          <img class="lazy" data-original="img/kitty_friendly_interior.png"
+            data-original-set="img/kitty_friendly_interior.png 1x, img/kitty_friendly_interior@2x.png 2x"
+            width="600" height="793"
+            alt="A cat laying surrounded by the abstract colorful interior objects">
+            </a>
+        </div>
+        <div class="item">
+          <a href="https://www.instagram.com/p/BubCLVtAspH/" target="_blank">
+          <img class="lazy" data-original="img/abstract_poster_71.png"
+            data-original-set="img/abstract_poster_71.png 1x, img/abstract_poster_71@2x.png 2x"
+            width="600" height="858"
+            alt="A bunch of colorful elements">
+            </a>
+        </div>
+        <div class="item">
+          <a href="https://www.instagram.com/p/BxNENjng-e0/" target="_blank">
+          <img class="lazy" data-original="img/party_poster.png"
+            data-original-set="img/party_poster.png 1x, img/party_poster@2x.png 2x"
+            width="600" height="858"
+            alt="A doodle of a funny looking guy walking somewhere with two vinyl records in his hands">
+            </a>
+        </div>
+    	  <div class="item">
+          <img class="lazy" data-original="img/landing.png"
+            data-original-set="img/landing.png 1x, img/landing@2x.png 2x"
+            width="800" height="600"
+            alt="Landing page with fun looking characters and sign up button">
+        </div>
+        <div class="item">
+          <img class="lazy" data-original="img/fun_characters.png"
+            data-original-set="img/fun_characters.png 1x, img/fun_characters@2x.png 2x"
+            width="800" height="600"
+            alt="Three characters">
+        </div>
+    	  <div class="item">
+          <a href="https://dribbble.com/shots/5909465-Collaboration" target="_blank">
+          <img class="lazy" data-original="img/collab.png"
+            data-original-set="img/collab.png 1x, img/collab@2x.png 2x"
+            width="800" height="600"
+            alt="Poeple collaborating on a web page">
+              </a>
+        </div>
+        <div class="item">
+          <a href="https://dribbble.com/shots/4909249-Just-plants" target="_blank">
+          <img class="lazy" data-original="img/plants.png"
+            data-original-set="img/plants.png 1x, img/plants@2x.png 2x"
+            width="800" height="600"
+            alt="Various plants in vases">
+            </a>
+        </div>
+        <div class="item">
+          <a href="https://www.behance.net/gallery/75008445/Youre-quite-a-character" target="_blank">
+          <img class="lazy" data-original="img/little_rascals.png"
+            data-original-set="img/little_rascals.png 1x, img/little_rascals@2x.png 2x"
+            width="800" height="600"
+            alt="A number of funny looking characters smiling">
+            </a>
+        </div>
+        <div class="item">
+          <a href="https://www.behance.net/gallery/75008445/Youre-quite-a-character" target="_blank">
+          <img class="lazy" data-original="img/characters.png"
+            data-original-set="img/characters.png 1x, img/characters@2x.png 2x"
+            width="800" height="600"
+            alt="A number of funny looking characters waving">
+            </a>
+        </div>
+        <div class="item">
+          <img class="lazy" data-original="img/lhe_key.png"
+            data-original-set="img/the_key.png 1x, img/the_key@2x.png 2x"
+            width="800" height="600"
+            alt="A hand holding a key">
+        </div>       
+        <div class="item">
+          <a href="https://dribbble.com/shots/4402531-A-Rental-Ad" target ="blank">
+          <img class="lazy" data-original="img/rental_ad.png"
+            data-original-set="img/rental_ad.png 1x, img/rental_ad@2x.png 2x"
+            width="800" height="600"
+            alt="A rental advertising">
+            </a>
+        </div>
+        <div class="item">
+          <img class="lazy" data-original="img/that_is_ok_poster.png"
+            data-original-set="img/that_is_ok_poster.png 1x, img/that_is_ok_poster@2x.png 2x"
+            width="802" height="1060"
+            alt="That is ok poster">
+        </div>
+        <div class="item">
+          <img class="lazy" data-original="img/christmas_tree_toys.png"
+            data-original-set="img/christmas_tree_toys.png 1x, img/christmas_tree_toys@2x.png 2x"
+            width="800" height="600"
+            alt="Christmas tree toys">
+        </div>
+        <div class="item">
+          <img class="lazy" data-original="img/christmas_cheer.jpg"
+            data-original-set="img/christmas_cheer.jpg 1x, img/christmas_cheer@2x.jpg 2x"
+            width="800" height="1060"
+            alt="Christmas cheer">
+        </div>
+        <div class="item">
+          <img class="lazy" data-original="img/Image_7.png"
+            data-original-set="img/Image_7.png 1x, img/Image_7@2x.png 2x"
+            width="744" height="500"
+            alt="A person holding a sellphone">
+        </div>  
+        <div class="item">
+          <img class="lazy" data-original="img/dribbble_invite.jpg"
+            data-original-set="img/dribbble_invites.jpg 1x, img/dribbble_invites@2x.jpg 2x"
+            width="500" height="375"
+            alt="Dribbble invitations giveaway">
+        </div>
+        <div class="item">
+          <img class="lazy" data-original="img/girl_in_the_mist.png"
+            data-original-set="img/girl_in_the_mist.png 1x, img/girl_in_the_mist@2x.png 2x"
+            width="800" height="900"
+            alt="A girl in the mist">
+        </div>
+        <div class="item">
+          <img class="lazy" data-original="img/dancing_guy.png"
+            data-original-set="img/dancing_guy.png 1x, img/dancing_guy@2x.png 2x"
+            width="800" height="800"
+            alt="A guy dancing and singing">
+        </div>
+        <div class="item">
+          <img class="lazy" data-original="img/football_player.png"
+            data-original-set="img/football_player.png 1x, img/football_player@2x.png 2x"
+            width="800" height="600"
+            alt="A football player standing">
+        </div>
+        <div class="item">
+          <img class="lazy" data-original="img/hello_dribbble.jpg"
+            data-original-set="img/hello_dribbble.jpg 1x, img/hello_dribbble@2x.jpg 2x"
+            width="800" height="600"
+            alt="Hello dribbble">
+        </div>
+        <div class="item">
+          <img class="lazy" data-original="img/ugly_face.png"
+            data-original-set="img/ugly_face.png 1x, img/ugly_face@2x.png 2x"
+            width="800" height="600"
+            alt="Ugly face">
+        </div>
+        <div class="item">
+          <img class="lazy" data-original="img/damn_pencil.jpg"
+            data-original-set="img/damn_pencil.jpg 1x, img/damn_pencil@2x.jpg 2x"
+            width="800" height="600"
+            alt="Damn pencil">
+        </div>
+        <div class="item">
+          <img class="lazy" data-original="img/poster_61.png"
+            data-original-set="img/poster_61.png 1x, img/poster_61@2x.png 2x"
+            width="761" height="1015"
+            alt="A gig poster 61">
+        </div>
+        <div class="item">
+          <img class="lazy" data-original="img/what_is_that.jpg"
+            data-original-set="img/what_is_that.jpg 1x, img/what_is_that@2x.jpg 2x"
+            width="800" height="1060"
+            alt="What is that poster">
+        </div>
+        <div class="item">
+          <img class="lazy" data-original="img/job_hunting.png"
+            data-original-set="img/job_hunting.png 1x, img/job_hunting@2x.png 2x"
+            width="800" height="600"
+            alt="Job hunting illustration">
+        </div>
+        <div class="item">
+          <img class="lazy" data-original="img/picking_at_stuff.png"
+            data-original-set="img/picking_at_stuff.png 1x, img/picking_at_stuff@2x.png 2x"
+            width="800" height="1060"
+            alt="Picking at stuff">
+        </div>
+        <div class="item">
+          <img class="lazy" data-original="img/wrist_pain.png"
+            data-original-set="img/wrist_pain.png 1x, img/wrist_pain@2x.png 2x"
+            width="800" height="600"
+            alt="Wrist pain illustration">
+        </div>
+        <div class="item">
+          <img class="lazy" data-original="img/bauhaus_poster.png"
+            data-original-set="img/bauhaus_poster.png 1x, img/bauhaus_poster@2x.png 2x"
+            width="800" height="600"
+            alt="Bauhaus poster">
+        </div>
+        <div class="item">
+          <img class="lazy" data-original="img/a_cat_and_interior.png"
+            data-original-set="img/a_cat_and_interior.png 1x, img/a_cat_and_interior@2x.png 2x"
+            width="800" height="600"
+            alt="A cat sitting on a chair">
+        </div>
+        <div class="item">
+          <img class="lazy" data-original="img/self_portrait_illustration.png"
+            data-original-set="img/self_portrait_illustration.png 1x, img/self_portrait_illustration@2x.png 2x"
+            width="800" height="600"
+            alt="Self portrait illustration">
+        </div>
+        <div class="item">
+          <img class="lazy" data-original="img/candies.png"
+            data-original-set="img/candies.png 1x, img/candies@2x.png 2x"
+            width="800" height="600"
+            alt="Candies">
+        </div>
+        <div class="item">
+          <img class="lazy" data-original="img/fantastic_mr_fox.jpg"
+            data-original-set="img/fantastic_mr_fox.jpg 1x, img/fantastic_mr_fox@2x.jpg 2x"
+            width="800" height="600"
+            alt="Fantastic mr fox">
+        </div>
+        <div class="item">
+          <img class="lazy" data-original="img/architecture_poster_21.jpg"
+            data-original-set="img/architecture_poster_21.jpg 1x, img/architecture_poster_21@2x.jpg 2x"
+            width="800" height="1066"
+            alt="Architecture poster №21">
+        </div>
+        <div class="item">
+          <img class="lazy" data-original="img/de_stoel_stjil.jpg"
+            data-original-set="img/de_stoel_stjil.jpg 1x, img/de_stoel_stjil@2x.jpg 2x"
+            width="800" height="600"
+            alt="De stijl">
+        </div>
+        <div class="item">
+          <img class="lazy" data-original="img/books_and_fox_store.png"
+            data-original-set="img/books_and_fox_store.png 1x, img/books_and_fox_store@2x.png 2x"
+            width="800" height="600"
+            alt="Books and fox store">
+        </div>
+        <div class="item">
+          <img class="lazy" data-original="img/floating_face_in_space.jpg"
+            data-original-set="img/floating_face_in_space.jpg 1x, img/floating_face_in_space@2x.jpg 2x"
+            width="800" height="1060"
+            alt="Floating face in space">
+        </div>
+        <div class="item">
+          <img class="lazy" data-original="img/mixtape_cover_90.png"
+            data-original-set="img/mixtape_cover_90.png 1x, img/mixtape_cover_90@2x.png 2x"
+            width="800" height="800"
+            alt="Mixtape cover №90">
+        </div>
+        <div class="item">
+          <img class="lazy" data-original="img/men_in_the_mist.png"
+            data-original-set="img/men_in_the_mist.png 1x, img/men_in_the_mist@2x.png 2x"
+            width="800" height="600"
+            alt="Men in the mist">
+        </div>
+        <div class="item">
+          <img class="lazy" data-original="img/abstract_illustration_35.jpg"
+            data-original-set="img/abstract_illustration_35.jpg 1x, img/abstract_illustration_35@2x.jpg 2x"
+            width="800" height="600"
+            alt="Abstract illustration №35">
+        </div>
+        <div class="item">
+          <img class="lazy" data-original="img/experimental_poster_81.jpg"
+            data-original-set="img/experimental_poster_81.jpg 1x, img/experimental_poster_81@2x.jpg 2x"
+            width="800" height="600"
+            alt="Experimental poster №81">
+        </div>
+        <div class="item">
+          <img class="lazy" data-original="img/mountain_view_illustration.png"
+            data-original-set="img/mountain_view_illustration.png 1x, img/mountain_view_illustration@2x.png 2x"
+            width="800" height="600"
+            alt="Mountain view illustration">
+        </div>
+        <div class="item">
+          <img class="lazy" data-original="img/looking_cool_school.jpg"
+            data-original-set="img/looking_cool_school.jpg 1x, img/looking_cool_school@2x.jpg 2x"
+            width="800" height="1200"
+            alt="Looking cool at school humor illustration">
+        </div>
+        <div class="item">
+          <img class="lazy" data-original="img/abstract_poster.png"
+            data-original-set="img/abstract_poster.png 1x, img/abstract_poster@2x.png 2x"
+            width="800" height="1060"
+            alt="Abstract poster">
+        </div>
+        <div class="item">
+          <img class="lazy" data-original="img/laughing_out_loud.png"
+            data-original-set="img/laughing_out_loud.png 1x, img/laughing_out_loud@2x.png 2x"
+            width="800" height="600"
+            alt="Laughing out loud">
+        </div>
+        <div class="item">
+          <img class="lazy" data-original="img/abstract_illustration_13.png"
+            data-original-set="img/abstract_illustration_13.png 1x, img/abstract_illustration_13@2x.png 2x"
+            width="800" height="800"
+            alt="Abstract illustration №13">
+        </div>
+        <div class="item">
+          <img class="lazy" data-original="img/in_the_middle_of_something.jpg"
+            data-original-set="img/in_the_middle_of_something.jpg 1x, img/in_the_middle_of_something@2x.jpg 2x"
+            width="800" height="1066"
+            alt="In the middle of something illustration">
+        </div>
+        <div class="item">
+          <img class="lazy" data-original="img/magic_stones.jpg"
+            data-original-set="img/magic_stones.jpg 1x, img/magic_stones@2x.jpg 2x"
+            width="800" height="600"
+            alt="The magic stones">
+        </div>
+        <div class="item">
+          <img class="lazy" data-original="img/logo_noss_music.jpg"
+            data-original-set="img/logo_noss_music.jpg 1x, img/logo_noss_music@2x.jpg 2x"
+            width="800" height="600"
+            alt="Logo noss music">
+        </div>
+    </div>
+    <footer>
+        <div class="copyrights"></div>
+    </footer>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script>
+
+        var didScroll;
+        var lastScrollTop = 0;
+        var delta = 5;
+        var navbarHeight = $('#MagicMenu').outerHeight();
+
+        $(window).scroll(function(event) {
+            didScroll = true;
+        });
+
+        setInterval(function() {
+            if (didScroll) {
+                hasScrolled();
+                didScroll = false;
+            }
+        }, 250);
+
+        function hasScrolled() {
+            var st = $(this).scrollTop();
+
+            if (Math.abs(lastScrollTop - st) <= delta)
+                return;
+
+            if (st > lastScrollTop && st > navbarHeight) {
+
+                $('#MagicMenu').fadeOut(500);
+            } else {
+
+                if (st + $(window).height() < $(document).height()) {
+                    $('#MagicMenu').fadeIn(500);
+                }
+            }
+
+            lastScrollTop = st;
+        }
+    </script>
+    <script src="js/salvattore.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/vanilla-lazyload/8.2.0/lazyload.min.js"></script>
+    <script>
+        window.lazyLoadOptions = {
+        threshold: 1
+        };
+    </script>
+</body>
+</html>
