@@ -30,11 +30,11 @@
 </head>
 <body class="body page-contact clearfix">
     <div id="navtop" class="navigation">
-        <a href="index" class="nav-home">Konstantin</a>
+        <a href="index.html" class="nav-home">Konstantin</a>
         <div class="navigation-right">
-            <a href="about" id="about" class="nav-about">About</a>
+            <a href="about.html" id="about" class="nav-about">About</a>
             <a href="contact" id="contact" class="nav-contact">Contact</a>
-            <a href="gallery" id="gallery" class="nav-gallery">Gallery</a>
+            <a href="gallery.html" id="gallery" class="nav-gallery">Gallery</a>
         </div>
     </div>
     <h1 class="section short head-s">C.</h1>
